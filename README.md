@@ -43,13 +43,43 @@ can quickly build up knowledge without needing to jump through the repository to
   - [ ] HPFile
 - [ ] Qmdb
   - [ ] Entry file
+    - [ ] Entry
+    - [ ] Entry Buffer
+    - [ ] Entry Cache
+    - [ ] Entry File
+    - [ ] Helpers
+    - [ ] Read Buf
   - [ ] Flusher
+    - [ ] Barrier Set
+    - [ ] Flusher
+    - [ ] Shard
   - [ ] Indexer
   - [ ] Merkletree
   - [ ] Mutator
+   - [ ] Entry Mutator
+   - [ ] Noop 
   - [ ] Prefetcher
+    - [ ] Dio Prefetcher
+    - [ ] Uni Prefetcher 
   - [ ] Tasks
+    - [ ] BP Task Hub
+    - [ ] Helpers
+    - [ ] Task
+    - [ ] Task Id
+    - [ ] Task Manager
   - [ ] Utils
+    - [ ] Active Bits
+    - [ ] Bit Map
+    - [ ] Bytes Cache
+    - [ ] Change Set
+    - [ ] Codec
+    - [ ] Hasher
+    - [ ] Intset
+    - [ ] Lfsr
+    - [ ] Mpsc
+    - [ ] Ring Channel
+    - [ ] Short List
+    - [ ] Slice 
   - [ ] Compactor
   - [ ] Config
   - [ ] Def
