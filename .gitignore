@@ -1,0 +1,3 @@
+# Rust build artifacts (workspace root + any nested crate targets)
+target/
+**/target/
